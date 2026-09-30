@@ -13,6 +13,7 @@
 
 ---
 
+
 ## ⚠️ Disclaimer
 
 > Cet outil est développé **à des fins éducatives et de recherche uniquement**.
@@ -21,10 +22,12 @@
 
 ---
 
+
 ## 📖 Description
 
 `Test` est un [script/outil] permettant de [décrire la fonction principale en 1-2 phrases].
 Il a été créé pour [contexte : automatiser une tâche de recon, faciliter une phase de pentest, centraliser des sources OSINT, etc.].
+
 
 ## ✨ Fonctionnalités
 
@@ -33,11 +36,13 @@ Il a été créé pour [contexte : automatiser une tâche de recon, faciliter un
 - 📊 Fonctionnalité 3 (ex : export des résultats en CSV/JSON)
 - 🧩 Fonctionnalité 4 (ex : intégration API Shodan/Censys)
 
+
 ## 🛠️ Prérequis
 
 - Python 3.10+
 - pip
 - [Autres dépendances système, ex : nmap installé]
+
 
 ## 📦 Installation
 
