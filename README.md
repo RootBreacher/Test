@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 NomDuProjet
+# 🔍 Test
 
 ### Un outil de [reconnaissance OSINT / test d'intrusion / automatisation de recon] en Python
 
@@ -23,7 +23,7 @@
 
 ## 📖 Description
 
-`NomDuProjet` est un [script/outil] permettant de [décrire la fonction principale en 1-2 phrases].
+`Test` est un [script/outil] permettant de [décrire la fonction principale en 1-2 phrases].
 Il a été créé pour [contexte : automatiser une tâche de recon, faciliter une phase de pentest, centraliser des sources OSINT, etc.].
 
 ## ✨ Fonctionnalités
